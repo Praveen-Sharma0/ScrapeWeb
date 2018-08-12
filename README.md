@@ -27,6 +27,9 @@ The project is written in Python 2 , and is still a test-version . A more optimi
       |-- monster.json
       |-- scrapy.cfg
     
-            
+ 
+# Instructions to Execute
+
+1)
 
    
