@@ -5,7 +5,7 @@ import scrapy
 class MonsterbotSpider(scrapy.Spider):
     name = 'monsterbot'
     allowed_domains = ['https://www.monsterindia.com/front-end-developer-jobs-in-bengaluru-bangalore.html']
-    start_urls = ['http://https://www.monsterindia.com/front-end-developer-jobs-in-bengaluru-bangalore.html/']
+    start_urls = ['https://www.monsterindia.com/front-end-developer-jobs-in-bengaluru-bangalore.html/']
 
     def parse(self, response):
         
